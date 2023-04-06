@@ -38,9 +38,9 @@ See the [test project](https://github.com/ianweatherburn/EskomSePushAPI/blob/mai
 ### Swift Package Manager
 You can use Xcode 11 or later to integrate ESPLoadShedding into your project using [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app).
 
-To integrate ESPLoadShedding into your Xcode project using Swift Package Manager. Select **File > Swift Packages > Add Package Dependency...**.
+To integrate EskomSePushAPI into your Xcode project using Swift Package Manager. Select **File > Swift Packages > Add Package Dependency...**.
 
-When prompted, simply search for SwiftESP or specify the project's GitHub repository:
+When prompted, simply search for EskomSePushAPI or specify the project's GitHub repository:
 
 ```
 git@github.com:IanWeatherburn/EskomSePushAPI.git
