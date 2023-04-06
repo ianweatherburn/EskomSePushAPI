@@ -9,7 +9,7 @@
 
 EskomSePush API access requires an API Subscription (or the free* version for 50 requests per day). You can purchase an API key on [Gumroad](https://eskomsepush.gumroad.com/l/api). You must agree to the EskomSePush API [License Agreement](https://sepush.co.za/license-agreement).
 
-* If running the included EskomSePushAPITests, you can provide your your own token in EskomSePushAPITests.Constants.API.token
+* If running the included EskomSePushAPITests, you can provide your own token in EskomSePushAPITests.Constants.API.token
 * You must provide your own token when calling this API, in the EskomSePushAPI.init():
     - _Each Token is allocated a Quota (typically Daily usage); once this usage has been exceeded; requests will be blocked until quota is available_
     - _Do not share your Token_
