@@ -36,7 +36,7 @@ EskomSePush API access requires a paid API Subscription (or the free* version fo
 See the [test project](https://github.com/ianweatherburn/EskomSePushAPI/blob/main/Tests/EskomSePushAPITests/EskomSePushAPITests.swift) for usage
 
 ### Swift Package Manager
-You can use Xcode 11 or later to integrate ESPLoadShedding into your project using [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app).
+You can use Xcode 11 or later to integrate EskomSePushAPI into your project using [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app).
 
 To integrate EskomSePushAPI into your Xcode project using Swift Package Manager. Select **File > Swift Packages > Add Package Dependency...**.
 
