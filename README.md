@@ -7,7 +7,7 @@
 
 ![language Swift 5.8](https://img.shields.io/badge/language-Swift%205.8-orange.svg) 
 
-EskomSePush API access requires an API Subscription (or the free* version for 50 requests per day). You can purchase an API key on [Gumroad](https://eskomsepush.gumroad.com/l/api). You must agree to the EskomSePush API [License Agreement](https://sepush.co.za/license-agreement).
+EskomSePush API access requires a paid API Subscription (or the free* version for 50 requests per day). You can purchase an API key on [Gumroad](https://eskomsepush.gumroad.com/l/api). You must agree to the EskomSePush API [License Agreement](https://sepush.co.za/license-agreement).
 
 * If running the included EskomSePushAPITests, you can provide your own token in EskomSePushAPITests.Constants.API.token
 * You must provide your own token when calling this API, in the EskomSePushAPI.init():
