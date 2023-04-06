@@ -33,7 +33,7 @@ EskomSePush API access requires a paid API Subscription (or the free* version fo
 * **Check Allowance**: Check allowance allocated for token. NOTE: This call doesn't count towards your quota.
 
 ### Usage
-See the [example project](https://github.com/MaxHasADHD/TraktKit/tree/master/Example) for usage
+See the [test project](https://github.com/ianweatherburn/EskomSePushAPI/tree/main/Tests/EskomSePushAPITests) for usage
 
 ### Swift Package Manager
 You can use Xcode 11 or later to integrate ESPLoadShedding into your project using [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app).
