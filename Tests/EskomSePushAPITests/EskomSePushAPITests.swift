@@ -9,8 +9,8 @@ final class EskomSePushAPITests: XCTestCase {
         // Get your own EskomSePush API key here: https://eskomsepush.gumroad.com/l/api
         // Set the offline parameter to True to use local JSON files to test the API. In offline mode, the results wll not be accurate
         enum API {
-            static let token = "C46D66EA-D5DD4CA8-B6131748-1C030F31"
-            static let offline = true
+            static let token = "C4XXXXXX-XXXXXXXX-XXXXXXXX-XXXXXX31"
+            static let offline = false
         }
         
         enum Cities {
