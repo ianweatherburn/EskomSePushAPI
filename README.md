@@ -2,7 +2,7 @@
 <img width="180" height="180" src="https://developer.apple.com/swift/images/swift-logo.svg">&nbsp;<img width="220" height="220" src="https://eskom.sepush.co.za/img/logo.svg">
 </div>
 
-# ESPLoadShedding
+# EskomSePushAPI
 ## A Swift Wrapper for the [EskomSePush load-shedding API 2.0](https://documenter.getpostman.com/view/1296288/UzQuNk3E)
 
 ![language Swift 5.8](https://img.shields.io/badge/language-Swift%205.8-orange.svg) 
