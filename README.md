@@ -24,7 +24,7 @@ EskomSePush API access requires a paid API Subscription (or the free* version fo
 * Areas Nearby by GPS coordinates
 * User Generated Topics by approx GPS location
 
-## ESPLoadShedding Features:
+## Swift EskomSePushAPI Features:
 * **Status**: The current and next loadshedding statuses for South Africa and (Optional) municipal overrides
 * **Area Information**: This single request has everything you need to monitor upcoming loadshedding events for the chosen suburb.
 * **Area Nearby (GPS)**: Find areas based on GPS coordinates (latitude and longitude).
