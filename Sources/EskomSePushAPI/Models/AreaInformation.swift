@@ -9,9 +9,12 @@ import Foundation
 
 /*
 https://documenter.getpostman.com/view/1296288/UzQuNk3E#1881472b-c959-4259-b574-177feb5e0cda
-Include the &test=current or &test=future to get SAMPLE data returned in the events. current will return a loadshedding event which is occurring right now, and future will return an event starting on the next hour.
+Include the &test=current or &test=future to get SAMPLE data returned in the events. current will return a loadshedding event which is occurring right now, 
+and future will return an event starting on the next hour.
 
-NOTE: The schedule returned with testing data is NOT accurate data; but only for testing purposes. The areanameandsourceis updated to identify that this is testing data. Thistestrequest will not count towards your quota
+NOTE: The schedule returned with testing data is NOT accurate data; but only for testing purposes. 
+The area name and source is updated to identify that this is testing data. 
+This test request will not count towards your quota
 */
 
 protocol AreaInformationServiceable {
