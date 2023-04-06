@@ -1,0 +1,69 @@
+{
+    "areas": [
+        {
+            "count": -1,
+            "id": "eskde-10-fourwaysext20cityofjohannesburggauteng",
+            "name": "Fourways Ext 20 (10)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-10-fourwaysext23cityofjohannesburggauteng",
+            "name": "Fourways Ext 23 (10)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-10-fourwaysext44cityofjohannesburggauteng",
+            "name": "Fourways Ext 44 (10)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-10-fourwaysext8cityofjohannesburggauteng",
+            "name": "Fourways Ext 8 (10)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-2-fourwaysext25cityofjohannesburggauteng",
+            "name": "Fourways Ext 25 (2)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-2-fourwaysext27cityofjohannesburggauteng",
+            "name": "Fourways Ext 27 (2)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-2-fourwaysext34westcityofjohannesburggauteng",
+            "name": "Fourways Ext 34-WEST (2)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-2-fourwaysext39cityofjohannesburggauteng",
+            "name": "Fourways Ext 39 (2)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-14-fourwaysext14eastcityofjohannesburggauteng",
+            "name": "Fourways Ext 14-EAST (14)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "count": -1,
+            "id": "eskde-10-fourwaysext10cityofjohannesburggauteng",
+            "name": "Fourways Ext 10 (10)",
+            "region": "Eskom Direct, City of Johannesburg, Gauteng"
+        },
+        {
+            "id": "capetown-11-constantia",
+            "name": "Constantia (11)",
+            "region": "City of Cape Town"
+        }
+    ]
+}

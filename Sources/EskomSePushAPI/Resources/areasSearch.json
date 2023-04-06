@@ -1,0 +1,54 @@
+{
+    "areas": [
+        {
+            "id": "jhbcitypower2-11-constantiakloof",
+            "name": "Constantia Kloof (11)",
+            "region": "JHB City Power"
+        },
+        {
+            "id": "ethekwini2-8-kloof",
+            "name": "Kloof (8)",
+            "region": "eThekwini Municipality"
+        },
+        {
+            "id": "capetown-11-constantia",
+            "name": "Constantia (11)",
+            "region": "City of Cape Town"
+        },
+        {
+            "id": "eskde-2-constantianalafreestate",
+            "name": "Constantia (2)",
+            "region": "Eskom Direct, Nala, Free State"
+        },
+        {
+            "id": "eskde-2-grootconstantianalafreestate",
+            "name": "Groot Constantia (2)",
+            "region": "Eskom Direct, Nala, Free State"
+        },
+        {
+            "id": "eskde-9-kleinconstantianalafreestate",
+            "name": "Klein Constantia (9)",
+            "region": "Eskom Direct, Nala, Free State"
+        },
+        {
+            "id": "eskde-14-constantiaphumelelafreestate",
+            "name": "Constantia (14)",
+            "region": "Eskom Direct, Phumelela, Free State"
+        },
+        {
+            "id": "eskde-1-constantiakopanongfreestate",
+            "name": "Constantia (1)",
+            "region": "Eskom Direct, Kopanong, Free State"
+        },
+        {
+            "id": "eskde-14-constantiangwathefreestate",
+            "name": "Constantia (14)",
+            "region": "Eskom Direct, Ngwathe, Free State"
+        },
+        {
+            "id": "eskde-4-constantiamoqhakafreestate",
+            "name": "Constantia (4)",
+            "region": "Eskom Direct, Moqhaka, Free State"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "status": {
+        "capetown": {
+            "name": "Cape Town",
+            "next_stages": [
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-04T16:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-04T22:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-04-05T05:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-05T16:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-05T22:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-04-06T05:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-06T16:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-06T22:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-04-07T05:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-07T16:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-07T22:00:00+02:00"
+                }
+            ],
+            "stage": "2",
+            "stage_updated": "2023-04-04T05:00:00.563354+02:00"
+        },
+        "eskom": {
+            "name": "Eskom",
+            "next_stages": [
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-04T16:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-05T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-05T16:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-06T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-06T16:00:00+02:00"
+                },
+                {
+                    "stage": "3",
+                    "stage_start_timestamp": "2023-04-07T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-04-07T16:00:00+02:00"
+                }
+            ],
+            "stage": "3",
+            "stage_updated": "2023-04-04T05:00:00.563354+02:00"
+        }
+    }
+}
